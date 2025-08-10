@@ -1,0 +1,3 @@
+Sample line 0 for file_30_714c40e2.txt
+Sample line 1 for file_30_714c40e2.txt
+Sample line 2 for file_30_714c40e2.txt
